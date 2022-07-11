@@ -1,0 +1,16 @@
+body{font-family: helvetica;
+	background-color: Gold}
+
+h1 {text-align: center;
+	font-size: 64px;}
+
+p{font-size: 48px;
+text-align: center;}
+
+div{
+	text-align: center;
+}
+
+input{
+	font-size:32px; 
+}
